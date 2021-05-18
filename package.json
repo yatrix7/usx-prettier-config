@@ -1,0 +1,13 @@
+{
+  "name": "@usx/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for USX",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatrix7/usx-prettier-config.git"
+  },
+  "author": "Jamison Yates",
+  "license": "MIT"
+}
+ ̰
